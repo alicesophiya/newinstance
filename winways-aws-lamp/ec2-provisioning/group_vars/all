@@ -1,0 +1,12 @@
+# AWS variables
+
+instance_type: "t2.micro"
+region: "us-east-1"
+image_id: "ami-039a49e70ea773ffc"
+key_pair: "Myfirstinstancekey"
+security_group: "Wserversecgrp"
+vpc_id: "subnet-0e829a20"
+
+# NTP server
+
+ntp_server: 0.pool.ntp.org

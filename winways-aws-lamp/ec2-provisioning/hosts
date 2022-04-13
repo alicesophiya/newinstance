@@ -1,0 +1,7 @@
+#[all:vars]
+#ansible_connection=ssh
+#ansible_user=ubuntu
+
+[local]
+localhost ansible_connection=ssh  ansible_user=ansible
+

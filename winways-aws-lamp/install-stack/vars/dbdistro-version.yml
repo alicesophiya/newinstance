@@ -1,0 +1,17 @@
+dbdistros:
+  percona:
+    ver55: percona-server-server-5.5
+    ver56: percona-server-server-5.6
+    ver57: percona-server-server-5.7
+    ver55cl: percona-server-client-5.5
+    ver56cl: percona-server-client-5.6
+    ver57cl: percona-server-client-5.7
+    ver55co: percona-server-common-5.5
+    ver56co: percona-server-common-5.6
+    ver57co: percona-server-common-5.7
+    deb_url: 'https://repo.percona.com/apt/percona-release_latest.xenial_all.deb'
+    deb_pkg_name: 'percona-release_latest.xenial_all.deb'
+  mariadb:
+    ver:
+  mysql:
+    ver:
